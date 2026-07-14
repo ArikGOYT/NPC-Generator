@@ -4,7 +4,7 @@
 
 ### 🚀 Быстрый старт
 1. Склонируй этот репо:
-`git clone https://github.com/твой_ник/npc-gen.git`
+`git clone https://github.com/ArikGOYT/NPC-Generator.git`
 2. Запусти основной файл:
 `python main.py`
 
